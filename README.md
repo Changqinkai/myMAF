@@ -82,8 +82,9 @@
     if __name__ == "__main__":
         run()
 ## 4.最终效果展示
-<video src="屏幕录制 2026-03-12 195438.mp4" controls width="640">
-  您的浏览器不支持 video 标签
-</video>
 
-           
+
+<!-- 仓库内 GIF，控制宽度为 600px -->
+<img src="https://github.com/Changqikai/myMAF/2026-03-12195438-ezgif.com-video-to-gif-converter.gif" alt="功能演示" width="600">
+
+
