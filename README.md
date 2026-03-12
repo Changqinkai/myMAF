@@ -1,6 +1,6 @@
-#万有引力的模拟实验
+# 万有引力的模拟实验
 
-##1.编辑物理系统
+## 1.编辑物理系统
   
     import taichi as ti
     from .config import *
@@ -39,7 +39,7 @@
                 elif pos[i][j] > 1:
                     pos[i][j] = 1.0
                     vel[i][j] *= BOUNCE_COEF
-##2.控制物理参数
+## 2.控制物理参数
    
     --- 物理系统参数 ---
     NUM_PARTICLES = 10000      # 粒子总数 (卡顿请调小此数值，如        2000)
@@ -50,7 +50,7 @@
     PARTICLE_RADIUS = 1.5      # 粒子绘制半径
     PARTICLE_COLOR = 0x00BFFF  # 粒子颜色 (天蓝色)
     
-##3.编写主程序
+## 3.编写主程序
     # src/Work0/main.py
     import taichi as ti
     
@@ -81,6 +81,9 @@
     
     if __name__ == "__main__":
         run()
-##4.最终效果展示
+## 4.最终效果展示
+<video src="./demo.mp4" controls width="640">
+  您的浏览器不支持 video 标签
+</video>
 
            
