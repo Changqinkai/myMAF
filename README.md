@@ -82,7 +82,7 @@
     if __name__ == "__main__":
         run()
 ## 4.最终效果展示
-<video src="./demo.mp4" controls width="640">
+<video src="屏幕录制 2026-03-12 195438.mp4" controls width="640">
   您的浏览器不支持 video 标签
 </video>
 
