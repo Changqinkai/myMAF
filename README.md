@@ -84,6 +84,8 @@
 ## 4.最终效果展示
 
 
+
+
 <!-- 仓库内 GIF，控制宽度为 600px -->
 <img src="https://raw.githubusercontent.com/Changqinkai/myMAF/main/2026-03-12195438-ezgif.com-video-to-gif-converter.gif" alt="功能演示" width="600">
 
